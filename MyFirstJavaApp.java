@@ -20,6 +20,7 @@ public class MyFirstJavaApp {
         // TODO code application logic here
         System.out.println("Hello World!");
         System.out.println("Hola Mundo!");
+        System.out.println("Hallo Welt!");
         
         Drinks d = new Bottle(10);
         System.out.println("Size = " + d.getSize()+" ml");
